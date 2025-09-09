@@ -1,7 +1,7 @@
 # 💻 Rafael Machado
 **`Estudante de Engenharia de Software`**
 
-Olá, me chamo Rafael Gomes Machado, tenho 18 anos e sou natural de Goiânia - GO, atualmente curso Engenharia de Software no Instituto Federal de Goiás (IFG). Cresci ao redor da tecnologia e tenho profunda paixão e curiosidade quanto à area. Atualmente estudo Javascript e tive contatos com HTML, CSS, Python e práticas de git.
+Olá, me chamo Rafael Gomes Machado, tenho 18 anos e sou natural de Goiânia - GO, atualmente curso Engenharia de Software no Instituto Federal de Goiás (IFG). Cresci ao redor da tecnologia e tenho profunda paixão e curiosidade quanto à area. No momento estudo Javascript e tive contatos com HTML, CSS, Python e práticas de git.
 
 <a href="https://github.com/rafael-machado1?tab=repositories">
         <img 
