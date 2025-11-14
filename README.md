@@ -3,21 +3,6 @@
 
 Olá, me chamo Rafael Gomes Machado, tenho 18 anos e sou natural de Goiânia - GO, atualmente curso Engenharia de Software no Instituto Federal de Goiás (IFG). No momento estou no 2º período e estou estudando Javascript, Typescript, Node.js, Git, Html e Css. Pretendo ser um desenvolvedor fullstack com foco em back-end, quaisquer dúvidas me chame no e-mail
 
-<a href="https://github.com/rafael-machado1?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafael-machado1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/rafael-machado1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafael-machado1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 ### 🤖 Linguagens e Tecnologias 
