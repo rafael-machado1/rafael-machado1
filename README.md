@@ -1,4 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi there 👋</h1>
+
+###
+
+<p align="center">My name is Rafael and welcome to my profile</p>
+
+###
+
+<h2 align="center">About me</h2>
+
+###
+
+<p align="center">Software Engineering Student<br>Currently working with Typescript<br>Been coding since 2025</p>
 
 ###
 
@@ -30,7 +42,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -39,9 +51,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=rafael-machado1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-machado1&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rafael-machado1/rafael-machado1/output/snake.svg" alt="Snake animation" />
 
 ###
