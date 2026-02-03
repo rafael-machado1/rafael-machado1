@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1nZW0yY283bmViaGxhMncwenBtNzJnbDV2dzBreG82MjcyeXd0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPjYq9QA9SFG5jstsm/giphy.gif"  />
+  <img height="300" src="https://tenor.com/view/tuff-gif-12608728341021619464"/>
 </div>
 
 ###
@@ -8,19 +8,19 @@
 
 ###
 
-<p align="left">Software Engineering student at Instituto Federal de Goiás.</p>
+<p align="left"> - Software Engineering student at Instituto Federal de Goiás.</p>
 
 ###
 
-<p align="left">I've been coding since 2025.</p>
+<p align="left"> - I've been coding since 2025.</p>
 
 ###
 
-<p align="left">Focused on Back-End development.</p>
+<p align="left"> - Focused on Back-End development.</p>
 
 ###
 
-<p align="left">Constantly studying and evolving.</p>
+<p align="left"> - Constantly studying and evolving.</p>
 
 ###
 
