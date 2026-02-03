@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="300" src="![Art Offset GIF](https://github.com/user-attachments/assets/49446558-360c-4dee-85e5-569359438b20)
-464"/>
+  <img height="300" alt="Art Offset GIF" src="https://github.com/user-attachments/assets/49446558-360c-4dee-85e5-569359438b20" />
 </div>
+
 
 ###
 
